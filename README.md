@@ -19,14 +19,12 @@ Ever wondered what it really takes to thrive as a data professional, or what ski
 
 ## Visualization and dashboard 
 
-![Alt text](https://github.com/Chamberline-1/Power-BI---data-visualization-/blob/main/Power%20BI%20Screenshot%201.png)
-
-
+![Dashboard](https://github.com/Chamberline-1/Power-BI---data-visualization-/blob/main/Power%20BI%20Screenshot%201.png)
 
 ## Analysis 
 
 ### What is the demographic breakdown 
-From the visualization dashboard, its shows that a total of 630 data professionals took part in the survey and shows that most of the responses came from the United Kingdom and the United States, Canada and India
+From the visualization dashboard, its shows that a total of 630 data professionals took part in the survey and shows that most of the responses came from the United Kingdom and the United States, Canada and India. UK has the highest number of respodent, followed by US and India
 
 ### What is the Average Salary 
 Data scientist take the lead with an average salary of 93.78. And not just that, also we can see that over half of the 25 survey takers who are data scientist are happy with their salaries and work life balance. On the other hand we can see below that the data analyst from this survey which by the way are the highest number of survey takers, earn somewhere between an average of 55 and most of them aren't happy with their salaries. 
