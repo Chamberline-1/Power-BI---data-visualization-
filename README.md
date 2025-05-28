@@ -19,7 +19,9 @@ Ever wondered what it really takes to thrive as a data professional, or what ski
 
 ## Visualization and dashboard 
 
-![](https://github.com/Chamberline-1/Power-BI---data-visualization-/blob/main/Power%20BI%20Screenshot.png) 
+![Alt text](https://github.com/Chamberline-1/Power-BI---data-visualization-/blob/main/Power%20BI%20Screenshot%201.png)
+
+
 
 ## Analysis 
 
