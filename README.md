@@ -20,3 +20,22 @@ Ever wondered what it really takes to thrive as a data professional, or what ski
 ## Visualization and dashboard 
 
 ![](https://github.com/Chamberline-1/Power-BI---data-visualization-/blob/main/Power%20BI%20Screenshot.png) 
+
+## Analysis 
+
+### What is the demographic breakdown 
+From the visualization dashboard, its shows that a total of 630 data professionals took part in the survey and shows that most of the responses came from the United Kingdom and the United States, Canada and India
+
+### What is the Average Salary 
+Data scientist take the lead with an average salary of 93.78. And not just that, also we can see that over half of the 25 survey takers who are data scientist are happy with their salaries and work life balance. On the other hand we can see below that the data analyst from this survey which by the way are the highest number of survey takers, earn somewhere between an average of 55 and most of them aren't happy with their salaries. 
+
+### How difficult was it to break into data
+Over 21% of survey takers say it was easy and 24% say it was difficult. Among those who said it was easy, many of them were data scientist, architects and engineers and analysts while those who said it was difficult were mostly data scientist and architect who a number of data engineers 
+
+### Favourite Programming Languages 
+It shows here that the favourite programming languages is python and is most used by data analysts 
+
+## Conclusion 
+This project serves as a robust analytical tool that unravels the complex world of data careers. Through interactive dashboards and insightful visualizations and analysis, we have identified critical patterns, including the average salaries for various roles, the favourite skills, and how happy data professionals are with their salaries and work life balance. The analysis underscores the dynamic nature of the data industry and the imperative for continuous learning and strategic planning, facilitated by accessible insights like those presented here. 
+
+I would recommend this visualization to most especially aspiring data professionals. This could help them decide which career path to follow and what programming languages to master and what to expect in each data roles in terms of learning difficulty and salary
