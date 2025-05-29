@@ -17,9 +17,9 @@ Ever wondered what it really takes to thrive as a data professional, or what ski
    3. Data analysis expression (DAX)
    4. Data visualization design and dashboard
 
-## Visualization and dashboard 
 
-![Dashboard](https://github.com/Chamberline-1/Power-BI---data-visualization-/blob/main/Power%20BI%20Screenshot%201.png)
+![](https://github.com/Chamberline-1/Power-BI---data-visualization-/blob/main/Power%20BI%20Screenshot%201.png)
+
 
 ## Analysis 
 
